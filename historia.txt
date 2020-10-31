@@ -3,3 +3,5 @@ Esta es la historia de Jhonatan Villanova.
 Jhonatan tiene 23 años y nacio en Colombia, pero buscará vivir mejor junto a su familia.
 
 Hoy Jhonatan dominará Git.
+
+En persona parece un genio, pero es un estudiante algo pesimista.
